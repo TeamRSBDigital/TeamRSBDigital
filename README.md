@@ -18,7 +18,7 @@
     <a href="https://x.com/rayhanbiswasbd"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
     <a href="https://www.facebook.com/rayhanbiswasbd"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
     <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Website-DC2626?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
-    <a href="mailto:hirerayhan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="mailto:teamrsbdigital@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 </div>
 
@@ -177,7 +177,7 @@ By combining top-tier software development with advanced **Digital Marketing Sol
 <div align="center">
   <h3>Let's build something extraordinary together! 🚀</h3>
   <p>Available for new opportunities and enterprise collaborations.</p>
-  <a href="mailto:hirerayhan@gmail.com">
+  <a href="mailto:teamrsbdigital@gmail.com">
     <img src="https://img.shields.io/badge/Drop_an_Email-DC2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Hire Me" />
   </a>
   <br/>
