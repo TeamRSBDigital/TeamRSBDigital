@@ -1,58 +1,348 @@
-# 👋 Welcome to TeamRSBDigital
+# 👋 Hi, I'm RAYHAN BISWAS
 
-## 🚀 About Us
+<h3 align="center">
+Full Stack Developer • AI Automation Engineer • Digital Marketing & Analytics Specialist
+</h3>
 
-TeamRSBDigital is a technology team focused on building modern, secure, and scalable digital solutions.
-
-We specialize in:
-
-- 🩸 Blood Donation Management Systems
-- 🌐 Full Stack Web Applications
-- ⚡ Next.js & TypeScript Development
-- 🗄️ Supabase & PostgreSQL
-- 📊 Dashboard & Analytics
-- 🤖 Automation & Notification Systems
-- 🔐 Enterprise Security & RBAC
-- ☁️ Cloud Deployment (Vercel)
+<p align="center">
+Building modern, scalable and intelligent web applications with data-driven solutions.
+</p>
 
 ---
 
-## 🛠 Tech Stack
+# 🚀 About Me
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+I'm passionate about building modern web applications, AI-powered automation systems, SaaS platforms, CRM solutions and digital marketing systems.
+
+I enjoy solving real-world business problems through technology, automation and analytics.
 
 ---
 
-## 📌 Featured Project
+# 💼 What I Do
 
-### 🩸 Blood Donation Campaign Management System
+### 🌐 Full Stack Development
 
-A modern, secure, and scalable Blood Donation Campaign Management System designed for blood donor organizations.
+- Next.js
+- React
+- TypeScript
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Tailwind CSS
+- shadcn/ui
 
-### Key Features
+---
 
-- Role-Based Access Control (RBAC)
-- Smart Donor Search
-- Emergency Blood Request
-- Reports & Analytics
-- Telegram Group Notifications
-- Backup & Restore
-- Scheduler & Automation
+### ⚙ Backend Development
+
+- Node.js
+- Express.js
+- REST API
+- Server Actions
+- Authentication
+- Authorization
+- RBAC
+
+---
+
+### 🗄 Database
+
+- PostgreSQL
+- Supabase
+- Prisma ORM
+- MySQL
+
+---
+
+### ☁ Cloud & Deployment
+
+- Vercel
+- GitHub
+- VPS Deployment
+- Docker (Learning)
+
+---
+
+### 🤖 AI Development
+
+- OpenAI API
+- Google Gemini
+- AI Agents
+- Prompt Engineering
+- AI Automation
+- MCP
+- Chatbot Development
+
+---
+
+### 📊 Analytics & Tracking
+
+- Google Analytics 4
+- Google Tag Manager
+- Meta Pixel
+- Conversion API
+- Server-side Tracking
+
+---
+
+### 📈 Digital Marketing
+
+- Google Ads
+- Meta Ads
+- Performance Marketing
+- Local SEO
+- Technical SEO
+- Conversion Optimization
+
+---
+
+### 📱 Communication
+
+- Telegram Bot
+- WhatsApp API
+- Notification Systems
+- Broadcast Systems
+
+---
+
+### 🔐 Security
+
+- Authentication
+- Authorization
+- RBAC
 - Activity Logs
-- Communication Center
 - Security Hardening
+- Backup & Restore
 
 ---
 
-## 🌱 Current Focus
+# 🩸 Featured Projects
 
-Building enterprise-grade healthcare and public service applications that are secure, scalable, and production-ready.
+## Blood Donation Campaign Management System
+
+Enterprise-grade Blood Donation Platform with
+
+- RBAC
+- Donor Management
+- Blood Requests
+- Reports
+- Telegram Notifications
+- Backup
+- Scheduler
+- Activity Logs
+- Smart Broadcast
+- Security
 
 ---
 
-⭐ Thanks for visiting our GitHub profile!
+## GrowthSprint365 CRM
+
+Modern CRM platform with
+
+- Customer Management
+- Sales Pipeline
+- Analytics
+- Automation
+- Dashboard
+
+---
+
+## Order Intelligence OS
+
+AI-powered WooCommerce Intelligence Platform
+
+- Fraud Detection
+- Customer Intelligence
+- Order Verification
+- Analytics
+
+---
+
+## ElaraBorka
+
+Premium Fashion E-commerce Platform
+
+- Next.js
+- Supabase
+- Dashboard
+- Analytics
+
+---
+
+# 🛠 Tech Stack
+
+## Frontend
+
+Next.js
+
+React
+
+TypeScript
+
+JavaScript
+
+Tailwind CSS
+
+HTML
+
+CSS
+
+shadcn/ui
+
+---
+
+## Backend
+
+Node.js
+
+Express.js
+
+REST API
+
+Prisma
+
+---
+
+## Database
+
+PostgreSQL
+
+Supabase
+
+MySQL
+
+---
+
+## DevOps
+
+Git
+
+GitHub
+
+Vercel
+
+Docker
+
+Linux
+
+---
+
+## AI
+
+OpenAI
+
+Gemini
+
+AI Agents
+
+Prompt Engineering
+
+Automation
+
+---
+
+## Marketing
+
+Google Ads
+
+Meta Ads
+
+GA4
+
+GTM
+
+CAPI
+
+SEO
+
+---
+
+# 🌎 Industries
+
+- Healthcare
+- Blood Donation
+- SaaS
+- CRM
+- E-commerce
+- Education
+- Local Business
+- NGOs
+- Digital Marketing
+
+---
+
+# 🎯 Services
+
+✅ Full Stack Web Development
+
+✅ Dashboard Development
+
+✅ CRM Development
+
+✅ SaaS Development
+
+✅ API Integration
+
+✅ AI Integration
+
+✅ Analytics Setup
+
+✅ Google Ads
+
+✅ Meta Ads
+
+✅ SEO
+
+✅ Telegram Bot
+
+✅ WhatsApp Integration
+
+---
+
+# 📫 Connect With Me
+
+🌐 Website
+
+https://yourwebsite.com
+
+---
+
+💼 LinkedIn
+
+https://www.linkedin.com/in/rayhan-biswas-bd
+
+---
+
+🐙 GitHub
+
+https://github.com/rayhanbiswasbd
+
+---
+
+📘 Facebook
+
+https://www.facebook.com/rayhanbiswasbd
+
+---
+
+🐦 X (Twitter)
+
+https://x.com/rayhanbiswasbd
+
+---
+
+📧 Email
+
+hirerayhan@gmail.com
+
+---
+
+# ❤️ Thanks for Visiting
+
+If you like my work,
+
+⭐ Star my repositories
+
+🤝 Follow me
+
+🚀 Let's build something amazing together.
