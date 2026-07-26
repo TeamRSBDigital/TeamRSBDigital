@@ -142,14 +142,14 @@ By combining top-tier software development with advanced **Digital Marketing Sol
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TeamRSBDigital&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=DC2626&text_color=C9D1D9&icon_color=DC2626&text_bold=false" height="195" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TeamRSBDigital&theme=dark&hide_border=true&background=0D1117&title_color=DC2626&text_color=C9D1D9&icon_color=DC2626&sideNums=DC2626&sideLabels=C9D1D9&ring=DC2626&fire=DC2626&currStreakLabel=C9D1D9&currStreakNum=C9D1D9" height="195" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TeamRSBDigital&amp;show_icons=true&amp;theme=dark&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=DC2626&amp;text_color=C9D1D9&amp;icon_color=DC2626&amp;text_bold=false" height="195" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TeamRSBDigital&amp;theme=dark&amp;hide_border=true&amp;background=0D1117&amp;title_color=DC2626&amp;text_color=C9D1D9&amp;icon_color=DC2626&amp;sideNums=DC2626&amp;sideLabels=C9D1D9&amp;ring=DC2626&amp;fire=DC2626&amp;currStreakLabel=C9D1D9&amp;currStreakNum=C9D1D9" height="195" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeamRSBDigital&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=DC2626&text_color=C9D1D9" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeamRSBDigital&amp;layout=compact&amp;theme=dark&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=DC2626&amp;text_color=C9D1D9" alt="Top Languages" />
 </div>
 
 <br/>
@@ -158,27 +158,16 @@ By combining top-tier software development with advanced **Digital Marketing Sol
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=TeamRSBDigital&theme=onedark&no-frame=true&no-bg=true&margin-w=15&title-color=DC2626&text-color=C9D1D9" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=TeamRSBDigital&amp;theme=onedark&amp;no-frame=true&amp;no-bg=true&amp;margin-w=15&amp;title-color=DC2626&amp;text-color=C9D1D9" alt="GitHub Trophies" />
   </a>
 </div>
 
 <br/>
 
-
-
 ## 👾 System Console
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=500&color=00FF41&background=0D1117&center=false&vCenter=true&multiline=true&width=800&height=200&lines=%3E_+root@TeamRSBDigital%3A~%23+./bypass_security.sh;%3E_+Decrypting+database...+[OK];%3E_+Deploying+AI+Automation...+[OK];%3E_+System+Override+Successful!;%3E_+Welcome+to+the+Mainframe_" alt="Hacking Terminal" />
-</div>
-
-
-## 🐍 Contribution Graph
-
-<div align="center">
-  <picture>
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TeamRSBDigital/TeamRSBDigital/output/dist/github-contribution-grid-snake-dark.svg" width="100%">
-  </picture>
 </div>
 
 <br/>
