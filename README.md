@@ -141,26 +141,22 @@ By combining top-tier software development with advanced **Digital Marketing Sol
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TeamRSBDigital&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=DC2626&text_color=C9D1D9&icon_color=DC2626&text_bold=false" height="195" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TeamRSBDigital&theme=dark&hide_border=true&background=0D1117&title_color=DC2626&text_color=C9D1D9&icon_color=DC2626&sideNums=DC2626&sideLabels=C9D1D9&ring=DC2626&fire=DC2626&currStreakLabel=C9D1D9&currStreakNum=C9D1D9" height="195" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrst-anuraghazra1.vercel.app/api?username=TeamRSBDigital&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=DC2626&text_color=C9D1D9&icon_color=DC2626" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TeamRSBDigital&theme=dark&hide_border=true&background=0D1117&title_color=DC2626&text_color=C9D1D9&icon_color=DC2626&sideNums=DC2626&sideLabels=C9D1D9&ring=DC2626&fire=DC2626&currStreakLabel=C9D1D9&currStreakNum=C9D1D9" height="180" alt="GitHub Streak" />
+</p>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeamRSBDigital&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=DC2626&text_color=C9D1D9" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrst-anuraghazra1.vercel.app/api/top-langs/?username=TeamRSBDigital&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=DC2626&text_color=C9D1D9" alt="Top Languages" />
+</p>
 
 <br/>
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=TeamRSBDigital&theme=onedark&no-frame=true&no-bg=true&margin-w=15&title-color=DC2626&text-color=C9D1D9" alt="GitHub Trophies" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TeamRSBDigital&theme=onedark&no-frame=true&no-bg=true&margin-w=15&title-color=DC2626&text-color=C9D1D9" alt="GitHub Trophies" />
+</p>
 
 <br/>
 
