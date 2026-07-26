@@ -164,6 +164,15 @@ By combining top-tier software development with advanced **Digital Marketing Sol
 
 <br/>
 
+
+
+## 👾 System Console
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=500&color=00FF41&background=0D1117&center=false&vCenter=true&multiline=true&width=800&height=200&lines=%3E_+root@TeamRSBDigital%3A~%23+./bypass_security.sh;%3E_+Decrypting+database...+[OK];%3E_+Deploying+AI+Automation...+[OK];%3E_+System+Override+Successful!;%3E_+Welcome+to+the+Mainframe_" alt="Hacking Terminal" />
+</div>
+
+
 ## 🐍 Contribution Graph
 
 <div align="center">
