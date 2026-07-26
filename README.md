@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/TeamRSBDigital">
-    <img src="https://cdn.jsdelivr.net/gh/TeamRSBDigital/TeamRSBDigital@main/assets/banner.svg" alt="TeamRSBDigital - Enterprise Developer Banner" width="100%" />
+    <img src="https://cdn.jsdelivr.net/gh/TeamRSBDigital/TeamRSBDigital@main/assets/banner.svg" alt="Rayhan Biswas - Enterprise Developer Banner" width="100%" />
   </a>
   <br/>
   
@@ -22,7 +22,7 @@
   </p>
 </div>
 
-<img src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" width="100%" alt="Divider" />
+---
 
 ## 👨‍💻 About Me
 
@@ -141,22 +141,26 @@ By combining top-tier software development with advanced **Digital Marketing Sol
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrst-anuraghazra1.vercel.app/api?username=TeamRSBDigital&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=DC2626&text_color=C9D1D9&icon_color=DC2626" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TeamRSBDigital&theme=dark&hide_border=true&background=0D1117&title_color=DC2626&text_color=C9D1D9&icon_color=DC2626&sideNums=DC2626&sideLabels=C9D1D9&ring=DC2626&fire=DC2626&currStreakLabel=C9D1D9&currStreakNum=C9D1D9" height="180" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TeamRSBDigital&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=DC2626&text_color=C9D1D9&icon_color=DC2626&text_bold=false" height="195" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TeamRSBDigital&theme=dark&hide_border=true&background=0D1117&title_color=DC2626&text_color=C9D1D9&icon_color=DC2626&sideNums=DC2626&sideLabels=C9D1D9&ring=DC2626&fire=DC2626&currStreakLabel=C9D1D9&currStreakNum=C9D1D9" height="195" alt="GitHub Streak" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrst-anuraghazra1.vercel.app/api/top-langs/?username=TeamRSBDigital&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=DC2626&text_color=C9D1D9" alt="Top Languages" />
-</p>
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeamRSBDigital&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=DC2626&text_color=C9D1D9" alt="Top Languages" />
+</div>
 
 <br/>
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TeamRSBDigital&theme=onedark&no-frame=true&no-bg=true&margin-w=15&title-color=DC2626&text-color=C9D1D9" alt="GitHub Trophies" />
-</p>
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=TeamRSBDigital&theme=onedark&no-frame=true&no-bg=true&margin-w=15&title-color=DC2626&text-color=C9D1D9" alt="GitHub Trophies" />
+  </a>
+</div>
 
 <br/>
 
@@ -168,7 +172,7 @@ By combining top-tier software development with advanced **Digital Marketing Sol
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" width="100%" alt="Divider" />
+---
 
 <div align="center">
   <h3>Let's build something extraordinary together! 🚀</h3>
